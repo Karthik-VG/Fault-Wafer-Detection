@@ -1,11 +1,4 @@
-"""
-This is the Entry point for Training the Machine Learning Model.
 
-Written By: iNeuron Intelligence
-Version: 1.0
-Revisions: None
-
-"""
 
 
 # Doing the necessary imports
